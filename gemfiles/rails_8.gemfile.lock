@@ -11,7 +11,7 @@ PATH
   remote: ..
   specs:
     acts_as_tenant (1.0.1)
-      rails (>= 6.1)
+      rails (>= 7.0)
 
 GEM
   remote: https://rubygems.org/
